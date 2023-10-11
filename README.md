@@ -1,10 +1,5 @@
 # Insurance Premium Prediction Project
-## Usage
-1. Clone this repository:
-git clone https://github.com/yourusername/insurance-prediction.git
-2. Open the Jupyter Notebook:
-jupyter notebook insurance_prediction.ipynb
-3. Run the notebook to preprocess data, perform EDA, train models, and make predictions.
+
 
 This project aims to predict insurance premiums using machine learning techniques in a Jupyter Notebook. The dataset contains features such as age, sex, BMI, number of children, smoking status, region, and insurance charges.
 
@@ -49,9 +44,14 @@ This project aims to predict insurance premiums using machine learning technique
   - LightGBM
   - Gradient Boosting Regression
 - Evaluated models based on performance metrics.
-## Hyper Paramter
+
 ## Model Performance
 - Calculated R-squared (coefficient of determination) and Mean Squared Error (MSE) for each model.
 - Selected the model with the best performance.
 
-
+## Usage
+1. Clone this repository:
+git clone https://github.com/yourusername/insurance-prediction.git
+2. Open the Jupyter Notebook:
+jupyter notebook insurance_prediction.ipynb
+3. Run the notebook to preprocess data, perform EDA, train models, and make predictions.
