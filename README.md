@@ -14,13 +14,13 @@ This project aims to predict insurance premiums using machine learning technique
 8. [Contact](#contact)
 
 ## Dataset
-- **age**: Age of the insured(int)   
-- **sex**: Gender of the insured(object)
+- **age**: Age of the insured (int)   
+- **sex**: Gender of the insured (object)
 - **bmi**: Body Mass Index (BMI) of the insured (float)
-- **children**: Number of children/dependents covered by the insurance(int)
-- **smoker**: Smoking status (1 for smokers, 0 for non-smokers)(object)
-- **region**: Region of residence(object)
-- **charges**: Insurance charges(float)
+- **children**: Number of children/dependents covered by the insurance (int)
+- **smoker**: Smoking status (1 for smokers, 0 for non-smokers) (object)
+- **region**: Region of residence (object)
+- **charges**: Insurance charges (float)
 
 ## Data Preprocessing
 - Remove dupliacted data
@@ -47,7 +47,7 @@ This project aims to predict insurance premiums using machine learning technique
 
 ## Model Performance
 - Calculated R-squared (coefficient of determination) and Mean Squared Error (MSE) for each model.
-- Selected the model with the best performance.
+- Selected the model with the best performance after hyper parameter
 
 ## Usage
 1. Clone this repository:
