@@ -51,7 +51,7 @@ This project aims to predict insurance premiums using machine learning technique
 
 ## Usage
 1. Clone this repository:
-git clone https://github.com/yourusername/insurance-prediction.git](https://github.com/Junyoung0426/Predict_Insurance.git
+git clone https:/ https://github.com/Junyoung0426/Predict_Insurance.git
 2. Open the Jupyter Notebook:
 jupyter notebook insurance_prediction.ipynb
 3. Run the notebook to preprocess data, perform EDA, train models, and make predictions.
