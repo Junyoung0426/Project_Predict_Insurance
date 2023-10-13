@@ -14,7 +14,7 @@ This project aims to predict insurance premiums using machine learning technique
 8. [Contact](#contact)
 
 ## Dataset 
-https://www.kaggle.com/datasets/simranjain17/insurance/code
+https://www.kaggle.com/datasets/simranjain17/insurance/data
 - **age**: Age of the insured (int)   
 - **sex**: Gender of the insured (object)
 - **bmi**: Body Mass Index (BMI) of the insured (float)
